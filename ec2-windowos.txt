@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 disk = 500
+=======
+###########windows server################
+cpu =4
+memory =8
+>>>>>>> feat/spinnup-ec2

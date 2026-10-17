@@ -1,0 +1,5 @@
+#############rhel9 os requirements#################
+cpu = 4
+memory =16
+vlan = 41
+
